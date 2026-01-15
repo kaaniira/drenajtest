@@ -1,0 +1,6 @@
+flask
+flask-cors
+requests
+google-auth
+earthengine-api
+gunicorn
